@@ -11,9 +11,7 @@ all the vendors are injecting medicine on these yields which are affecting the h
 this application is mainly developed for them, which will help consumers to get their fresh and clear goods.
 
 
-![image](https://user-images.githubusercontent.com/56546673/186833263-52872bd0-0ba3-420c-ab89-ed6e2ae770ca.png)
-
-![image](https://user-images.githubusercontent.com/56546673/186833290-7bfc7a8b-0e1a-49e9-bd45-f12fa7f57da4.png)
+![image](https://user-images.githubusercontent.com/56546673/186833263-52872bd0-0ba3-420c-ab89-ed6e2ae770ca.png) ![image](https://user-images.githubusercontent.com/56546673/186833290-7bfc7a8b-0e1a-49e9-bd45-f12fa7f57da4.png)
 ![image](https://user-images.githubusercontent.com/56546673/186833302-675d607b-45f7-4749-9f6c-79ef48058910.png)
 ![image](https://user-images.githubusercontent.com/56546673/186833308-2babb1a4-da45-4a72-8bab-38081483a45d.png)
 ![image](https://user-images.githubusercontent.com/56546673/186833322-5b5a98dc-f773-4d31-a688-088fd7af7064.png)
