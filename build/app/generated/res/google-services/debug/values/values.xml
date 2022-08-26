@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">120500748114-23jvr45i1uut6q5k5hpesgc0m97ld61a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ferme-5b192-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">120500748114</string>
+    <string name="google_api_key" translatable="false">AIzaSyDSSBAMTThtjMr6YErZKj3WZaembgq_yFo</string>
+    <string name="google_app_id" translatable="false">1:120500748114:android:8c5933a12027c18514448b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDSSBAMTThtjMr6YErZKj3WZaembgq_yFo</string>
+    <string name="google_storage_bucket" translatable="false">ferme-5b192.appspot.com</string>
+    <string name="project_id" translatable="false">ferme-5b192</string>
+</resources>
